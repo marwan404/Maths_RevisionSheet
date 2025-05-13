@@ -18,10 +18,10 @@ This project merges 9 full past papers worth of tough Edexcel IGCSE Math questio
 
 ## 🔗 Download the PDFs
 
-- 📄 [Revision Sheet: bit.ly/4kanpes](https://bit.ly/4kanpes)
-- 🧠 [Mark Scheme: bit.ly/3EZWvY1](https://bit.ly/3EZWvY1)
+- 📄 [Revision Sheet](https://drive.google.com/file/d/1A_JAchtkpj9_ZxCRE1GybAYiPu2PVdqG/view?usp=sharing)
+- 🧠 [Mark Scheme](https://drive.google.com/file/d/1GkkXiG_QaSfeX9rdr8QUSZfVXQU6l3FZ/view?usp=sharing)
 
-Both are free to download and printable.
+> Both are free to download and printable.
 
 ---
 
@@ -36,10 +36,9 @@ Both are free to download and printable.
 
 ## 💻 Bonus for Nerdy Students
 
-If you're into programming, check out the Python script I used to merge the PDFs.  
+If you're into programming, check out the Python script I used above to merge the PDFs.  
 It’s a simple tool that automates the process — helping me save time and stay organized.
 
-- 🔗 [GitHub - Maths Revision Sheet](https://github.com/marwan404/Maths_RevisionSheet)
 
 ---
 
