@@ -20,8 +20,8 @@ Solving full past papers can burn hours without much gain. This project cuts str
 
 ## 🔗 Download the PDFs
 
-- 📄 Revision Sheet(bit.ly/4kanpes)
-- 🧠 Mark Scheme(bit.ly/3EZWvY1)
+- 📄 Revision Sheet: bit.ly/4kanpes
+- 🧠 Mark Scheme:    bit.ly/3EZWvY1
 
 > Both are free to download and printable.
 
